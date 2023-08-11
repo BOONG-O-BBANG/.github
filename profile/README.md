@@ -1,12 +1,6 @@
-## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 팀원
+|  | 이상혁 | 송지현 | 이연주 | 최현욱 | 정은기 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2)  |  |   |   | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) |
+| ROLE | PM, Back-end | front-end, infra | PA, front-end | PL, front-end | back-end, infra |
