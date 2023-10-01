@@ -142,7 +142,7 @@
     <br>
     <img src="https://img.shields.io/badge/amazon identity access management-DD344C?style=for-the-badge&logo=amazon identity access management&logoColor=white">
     <img src="https://img.shields.io/badge/amazon simple email service-DD344C?style=for-the-badge&logo=amazon simple email service&logoColor=white">
-    <h3>🔩 TEST</h3>
+    <h3>🧱 TEST</h3>
     <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
     <img src="https://img.shields.io/badge/apache jmeter-D22128?style=for-the-badge&logo=apache jmeter&logoColor=white">
 </div>
