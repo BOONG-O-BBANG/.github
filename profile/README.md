@@ -94,6 +94,53 @@
 
 # ⚙️ 기술을 소개합니다
 
+<div align=left>
+    <h3>🖥 FRONT-END</h3>
+    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">  
+    <br>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    <h3>🔧 BACK-END</h3>
+    <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/openjdk-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=spring security&logoColor=white">
+    <img src="https://img.shields.io/badge/json web tokens-FF0000?style=for-the-badge&logo=json web tokens&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+    <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+    <h3>🔩 INFRA/DEVOPS</h3>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/jeknins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon route 53-8C4FFF?style=for-the-badge&logo=amazon route 53&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/amazon api gateway-FF4F8B?style=for-the-badge&logo=amazon api gateway&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon cloudwatch-FF4F8B?style=for-the-badge&logo=amazon cloudwatch&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/amazon identity access management-DD344C?style=for-the-badge&logo=amazon identity access management&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon simple email service-DD344C?style=for-the-badge&logo=amazon simple email service&logoColor=white">
+</div>
+
 <details>
 <summary> <h3> System Architecture </h3> </summary>
 <div markdown="1">
