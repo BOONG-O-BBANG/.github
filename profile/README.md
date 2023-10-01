@@ -11,6 +11,9 @@
 
 ![boong_6_1](https://github.com/BOONG-O-BBANG/.github/assets/114793764/d6ec62a9-b8ed-4c51-a5bb-4f03b7f53ede)
 
+
+<br>
+
 <br>
 
 ### 🔍 Service Mission & Vision | 서비스 목표
@@ -139,7 +142,16 @@
     <br>
     <img src="https://img.shields.io/badge/amazon identity access management-DD344C?style=for-the-badge&logo=amazon identity access management&logoColor=white">
     <img src="https://img.shields.io/badge/amazon simple email service-DD344C?style=for-the-badge&logo=amazon simple email service&logoColor=white">
+    <h3>🔩 TEST</h3>
+    <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
+    <img src="https://img.shields.io/badge/apache jmeter-D22128?style=for-the-badge&logo=apache jmeter&logoColor=white">
 </div>
+
+
+<br>
+
+<br>
+
 
 <details>
 <summary> <h3> System Architecture </h3> </summary>
@@ -148,6 +160,7 @@
 ![System_Architecture](https://github.com/BOONG-O-BBANG/.github/assets/114793764/1dacb9e2-46cf-468b-b15c-966ca0a511e9)
 
 </div>
+
 </details>
 
 <details>
@@ -157,6 +170,7 @@
 ![bob_erd](https://github.com/BOONG-O-BBANG/.github/assets/114793764/1c869fe9-58f3-45ca-a723-e818ef5e2676)
 
 </div>
+
 </details>
 
 <details>
@@ -177,9 +191,12 @@
 <br>
 
 
+
 # 👨‍👩‍👧‍👦 팀원을 소개합니다
 
 |  | **이상혁** | **송지현** | **이연주** | **최현욱** | **정은기** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | GitHub | [![sanghyuk2](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2)  | [![starelsa](https://github.com/starelsa.png?width=200px)](https://github.com/starelsa) |  [![leeyeonjoo123](https://github.com/leeyeonjoo123.png?width=200px)](https://github.com/leeyeonjoo123) | [![chu9741](https://github.com/chu9741.png?width=200px)](https://github.com/chu9741)  | [![eunki96](https://github.com/eunki96.png?width=200px)](https://github.com/eunki96) |
 | ROLE | PM, Back-end | front-end, infra | PA, front-end | PL, front-end | back-end, infra |
+
+<br>
